@@ -6,10 +6,12 @@ import CartPage from "../pages/cart-page";
 
 const App = () => {
     return (
-        <Switch>
-           <Route path='/' component={HomePage} exact/>
-           <Route path='/cart' component={CartPage}/>
-        </Switch>
+        <main className="container">
+            <Switch>
+                <Route path='/' component={HomePage} exact/>
+                <Route path='/cart' component={CartPage}/>
+            </Switch>
+        </main>
     );
 };
 
