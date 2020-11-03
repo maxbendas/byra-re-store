@@ -3,7 +3,7 @@ export default class BookstoreService {
         return [
             {
                 id:1,
-                title:'JS',
+                title:'JScript',
                 author:'Fowler'
             },
             {
