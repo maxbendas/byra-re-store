@@ -1,6 +1,6 @@
 import React from 'react';
-import BookList from "../book-list";
 import ShoppingCartTable from "../shopping-cart-table";
+import BookList from "../book-list/book-list";
 
 const HomePage = () => {
 
