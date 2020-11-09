@@ -8,4 +8,8 @@
   margin-top: 5px;
 }
 
+.table td {
+  vertical-align: middle;
+}
+
 /*# sourceMappingURL=shopping-cart-table.css.map */
